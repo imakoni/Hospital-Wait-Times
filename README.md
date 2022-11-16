@@ -28,7 +28,11 @@ Key Takeaways
 Recommendations
 •	Using mobile apps for scheduling appointments and extended features that include real-time updates to provide information about the approximate wait times upon reaching the facility
 •	Telehealth solutions/virtual care eliminates travel time and expenses, waiting in line for prolonged periods before receiving care.
-•	Improving staffing methods- providing support for physicians by hiring Physician’s Assistance and Nurse Practitioners to reduce the doctors’ caseloads.
+•	Improving staffing methods- providing support for physicians by hiring Physician’s Assistants and Nurse Practitioners to reduce the doctors’ caseloads.
+
+
+
+
 
 
 

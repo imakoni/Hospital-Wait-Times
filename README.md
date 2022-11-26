@@ -13,19 +13,19 @@ What influenced me to work on this project was:
 
 Objective
 
-To analyze factors impacting the  efficient patient care delivery thereby resulting in increased wait times. An interactive  dashboard was designed in Tableau Desktop to provide insight on strategies to miniminize wait times, improve client satisfaction and overall revenue.  This project provides insights to improve resource allocation and financial outcomes for the hospital management team.
+To analyze factors impacting efficient patient care delivery thereby resulting in increased wait times. An interactive  dashboard was designed in Tableau Desktop to provide insight into strategies to miniminize wait times, improve client satisfaction and overall revenue.  This project provides insights to improve resource allocation and financial outcomes for the hospital management team.
 
 Dataset/Data cleaning
 
-The dataset in Excel consisted of approximately 30,000 visits recorded by an outpatient hospital within two weeks. I was able to conduct the data cleaning process involving replacing missing values, formatting the dates, and converting wait time to minutes and days of visits before creating a database and loading data into MSSS.
+The dataset in Excel consisted of approximately 30,000 visits recorded by an outpatient hospital within a period of  two weeks. I was able to conduct the data cleaning process involving replacing missing values, formatting the dates, and converting wait time to minutes and days of visits in Microsoft Excel  before creating a database and loading  the data into MS SQL Server.
 
 Data Exploration
 
 Lastly, I was able to run SQL queries to determine the following:
 
-•	Average wait time per financial class (Insurance plan).
+•	Average wait time per financial class per Insurance plan.
 
-•	Revenue generated per patient based on financial class (Insurance plan).
+•	Revenue generated per patient based on financial class or insurance provider.
 
 •	The type of physician and number of patients seen per day.
 

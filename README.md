@@ -13,7 +13,7 @@ What influenced me to work on this project was:
 
 Objective
 
-This project presents an analysis of factors influencing the delay in services while also providing insights to support operational decision-making and resource for the facility management team.
+To analyze factors impacting the  efficient patient care delivery thereby resulting in increased wait times. An interactive  dashboard was designed in Tableau Desktop to provide insight on strategies to miniminize wait times, improve client satisfaction and overall revenue.  This project provides insights to improve resource allocation and financial outcomes for the hospital management team.
 
 Dataset/Data cleaning
 

@@ -33,11 +33,11 @@ Lastly, I was able to run SQL queries to determine the following:
 
 Key Takeaways
 
-•	Private insurance clients experienced the lowest average wait times in minutes and coincidentally generated the most revenue for the facility.
+•	Private insurance clients experienced the lowest average wait times of 48 minutes and coincidentally generated the most revenue for the facility.
   
-•	There is a disproportionate distribution in patient to physician ratios-Anchor physicians provided care to most patients.
+•	There is a disproportionate distribution in patient to physician ratios-Anchor physicians provided care to most patients at 21,913 during this period.
   
-•	Most appointments scheduled for the beginning of the week-Monday being the busiest day compared to Sunday.
+•	Most appointments scheduled for the beginning of the week withMonday being the busiest day with an average of 101k patients and a wait time of 49mins.
 
 Recommendations
 

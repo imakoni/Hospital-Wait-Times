@@ -22,9 +22,13 @@ The dataset in Excel consisted of approximately 30,000 visits recorded by an out
 Data Exploration
 
 Lastly, I was able to run SQL queries to determine the following:
+
 •	Average wait time per financial class (Insurance plan).
+
 •	Revenue generated per patient based on financial class (Insurance plan).
+
 •	The type of physician and number of patients seen per day.
+
 •	Length of wait time based on the day of the week.
 
 Key Takeaways

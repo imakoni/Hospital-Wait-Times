@@ -17,7 +17,7 @@ This project presents an analysis of factors influencing the delay in services w
 
 Dataset/Data cleaning
 
-The dataset in Excel consisted of approximately 30,000 visits recorded by an outpatient hospital within two weeks. I was able to conduct the data cleaning process involving replacing missing values, formatting the dates, and converting wait time to minutes and days of visits before creating a database and loading data into the SQL Server.
+The dataset in Excel consisted of approximately 30,000 visits recorded by an outpatient hospital within two weeks. I was able to conduct the data cleaning process involving replacing missing values, formatting the dates, and converting wait time to minutes and days of visits before creating a database and loading data into MSSS.
 
 Data Exploration
 
